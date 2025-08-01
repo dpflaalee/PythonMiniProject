@@ -20,4 +20,4 @@
 git clone https://github.com/dpflaalee/PythonMiniProject.git
 cd PythonMiniProject
 pip install -r requirements.txt
-bash
+```
