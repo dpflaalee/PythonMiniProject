@@ -17,6 +17,6 @@
 ### 1. 설치
 
 ```bash
-git clone https://github.com/your-username/meal-tracker.git
-cd meal-tracker
+git clone https://github.com/dpflaalee/PythonMiniProject.git
+cd PythonMiniProject
 pip install -r requirements.txt
