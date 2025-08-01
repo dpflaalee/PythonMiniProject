@@ -20,10 +20,12 @@
 git clone https://github.com/dpflaalee/PythonMiniProject.git
 cd PythonMiniProject
 pip install -r requirements.txt
+bash
 
 ### 2. 실행
-bash
+```bash
 python main.py
+bash
 
 ### 3. 메뉴 예시
 1. 식사 추가
@@ -61,5 +63,5 @@ Python 3.8+
 
 requests, beautifulsoup4, matplotlib, pandas
 
-bash
+
 pip install requests beautifulsoup4 matplotlib pandas
