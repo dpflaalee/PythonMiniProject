@@ -1,5 +1,5 @@
 # 🥗 Meal Tracker & Calorie Visualizer
-
+</br>
 식사 기록을 관리하고, 음식의 칼로리 정보를 자동으로 크롤링하여 일별 섭취량을 시각화하는 Python 미니 프로젝트입니다.
 ---
 
